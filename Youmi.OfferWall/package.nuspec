@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>$id$</id>
+    <!--*-->
+    <version>7.5.0</version>
+    <title>
+    </title>
+    <!--*-->
+    <authors>Van Tian</authors>
+    <owners>Van Tian</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>Youmi Offer Wall SDK 有米积分墙SDK</description>
+    <!--*-->
+    <releaseNotes>Youmi&amp;#x0020;Offer&amp;#x0020;Wall&amp;#x0020;SDK</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>
+    </tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
